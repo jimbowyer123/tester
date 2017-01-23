@@ -187,4 +187,4 @@ def plot_candlestick_with_yahoo(symbol,start_date = datetime.date.today()-dateti
 #print(analyse_recent_year("BCS"))
 #plot_closes("ITVPF",datetime.date.today()-datetime.timedelta(days=365),datetime.date.today())
 #plot_candlestick_with_yahoo('DIS')
-plot_candlestick_with_yahoo('DIS')
+#plot_candlestick_with_yahoo('DIS')
